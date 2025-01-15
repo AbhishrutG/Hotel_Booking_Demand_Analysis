@@ -1,0 +1,20 @@
+ECHO is on.
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment files
+*.env
+
+# Logs
+*.log
+
+# Dataset backups or large files
+*.csv
